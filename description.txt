@@ -1,0 +1,16 @@
+player starts  in room
+enemies spawn 
+player can move and aim towards mouse and shoot
+enemies can shoot and move
+
+player entity (input, animation, pos, health, cameratrack)
+enemy entity (animation, pos, ai, health)
+
+camera entity (pos, viewport)
+
+movementsystem
+aimingsystem (track mouse, point gun towards it)
+inputsystem
+Enemyupdatingsystem
+cameramovementsytem
+rendersystem
